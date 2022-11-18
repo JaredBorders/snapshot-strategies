@@ -400,6 +400,7 @@ import * as rep3Badges from './rep3-badges';
 import * as marsecosystem from './marsecosystem';
 import * as multichainSerie from './multichain-serie';
 import * as ctsiStaking from './ctsi-staking';
+import * as kwenta from './kwenta-staked-balance';
 
 const strategies = {
   'forta-shares': fortaShares,
@@ -805,7 +806,8 @@ const strategies = {
   'rep3-badges': rep3Badges,
   marsecosystem,
   'multichain-serie': multichainSerie,
-  'ctsi-staking': ctsiStaking
+  'ctsi-staking': ctsiStaking,
+  'kwenta-staked-balance': kwenta
 };
 
 Object.keys(strategies).forEach(function (strategyName) {

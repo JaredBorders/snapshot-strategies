@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Example query",
+      "strategy": {
+        "name": "kwenta-staked-balance",
+        "params": {
+          "address": "0x6e56A5D49F775BA08041e28030bc7826b13489e0",
+          "symbol": "KWENTA"
+        }
+      },
+      "network": "10",
+      "addresses": [
+        "0x39de7aFEcCD742c40eF934eAA9AD19988DC8d5cb",
+        "0x6e56a5d49f775ba08041e28030bc7826b13489e0",
+        "0x1066a8eb3d90af0ad3f89839b974658577e75be2",
+        "0xf510a2ff7e9dd7e18629137ada4eb56b9c13e885",
+        "0xc7088ac8f287539567e458c7d08c2a1470fd25b7",
+        "0x8132ee584bcd6f8eb1bea141db7a7ac1e72917b9",
+        "0xf486a72e8c8143acd9f65a104a16990fdb38be14",
+        "0x36e42931a765022790b797963e42c5522d6b585a",
+        "0x896b94f4f27f12369698c302e2049cae86936bbb",
+        "0x7a0dff2a955b72159650300a9acef97146dd12e6"
+      ],
+      "snapshot": 38822797
+    }
+  ]
+  
